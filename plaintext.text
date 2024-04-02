@@ -1,0 +1,9 @@
+- project_folder
+  |- public
+  |  |- css
+  |     |- style.css
+  |- views
+  |  |- home.ejs
+  |  |- services.ejs
+  |  |- contact.ejs
+  |- server.js
